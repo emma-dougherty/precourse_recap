@@ -1,6 +1,6 @@
 new_student = "Emma"
 cohort = 57
-congrats_msg = "Congratulations on completing your first day!"
+congrats_msg = "Congratulations" + " " + new_student + " " + "on completing your first day!"
 
 print(congrats_msg)
 
